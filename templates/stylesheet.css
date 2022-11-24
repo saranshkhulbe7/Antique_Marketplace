@@ -1,0 +1,36 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 0% ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .container{
+    width: 80%;
+    margin: 0 auto;
+    border: none;
+    padding: 1%;
+}
+.textcenter{
+  text-align: center;
+}
+.social ul{
+  list-style: none;
+}
+.social li{
+  display: inline;
+  padding: 1%;
+}
+.blackbgbg{
+  background-color: teal;
+}
+.dp{
+  border-radius: 50%;
+}
+#more{
+  display: none;
+}
